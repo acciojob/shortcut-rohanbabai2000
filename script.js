@@ -7,7 +7,7 @@ function shortcut(s1, s2) {
 	}
 	let c=s1[0];
 	let d=s2[0];
-	return (c+" "+d);
+	return (c+d);
 }
 
 // Do not change the code below.
